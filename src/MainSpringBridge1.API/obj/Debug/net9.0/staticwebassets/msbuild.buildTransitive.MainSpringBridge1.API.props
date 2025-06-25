@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MainSpringBridge1.API.props" />
+</Project>

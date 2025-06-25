@@ -1,0 +1,22 @@
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.deps.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.AssemblyInfoInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.AssemblyInfo.cs
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\refint\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\ref\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.deps.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.AssemblyInfoInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.AssemblyInfo.cs
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\refint\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Domain\obj\Debug\net9.0\ref\MainSpringBridge1.Domain.dll

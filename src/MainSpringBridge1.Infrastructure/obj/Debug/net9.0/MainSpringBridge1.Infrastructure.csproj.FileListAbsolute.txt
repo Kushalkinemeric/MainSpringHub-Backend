@@ -1,0 +1,34 @@
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.deps.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.AssemblyInfo.cs
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpri.D164E044.Up2Date
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\refint\MainSpringBridge1.Infrastructure.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\ref\MainSpringBridge1.Infrastructure.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.deps.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.AssemblyInfo.cs
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpri.D164E044.Up2Date
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\refint\MainSpringBridge1.Infrastructure.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Infrastructure\obj\Debug\net9.0\ref\MainSpringBridge1.Infrastructure.dll

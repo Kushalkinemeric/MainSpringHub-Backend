@@ -1,0 +1,195 @@
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\appsettings.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.staticwebassets.endpoints.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.exe
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.deps.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.runtimeconfig.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Dapper.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.csproj.AssemblyReference.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.AssemblyInfoInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.AssemblyInfo.cs
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.csproj.CoreCompileInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\scopedcss\bundle\MainSpringBridge1.API.styles.css
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets\msbuild.MainSpringBridge1.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets\msbuild.MainSpringBridge1.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets\msbuild.build.MainSpringBridge1.API.props
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MainSpringBridge1.API.props
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MainSpringBridge1.API.props
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpri.37F8B38A.Up2Date
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\refint\MainSpringBridge1.API.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.genruntimeconfig.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\ref\MainSpringBridge1.API.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\appsettings.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.staticwebassets.endpoints.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.exe
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.deps.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.runtimeconfig.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.API.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Dapper.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Infrastructure.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.csproj.AssemblyReference.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.AssemblyInfoInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.AssemblyInfo.cs
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.csproj.CoreCompileInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\scopedcss\bundle\MainSpringBridge1.API.styles.css
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpri.37F8B38A.Up2Date
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\refint\MainSpringBridge1.API.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\MainSpringBridge1.API.genruntimeconfig.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.API\obj\Debug\net9.0\ref\MainSpringBridge1.API.dll

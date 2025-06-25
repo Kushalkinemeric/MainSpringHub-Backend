@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MainSpringBridge1.API.props" />
+</Project>

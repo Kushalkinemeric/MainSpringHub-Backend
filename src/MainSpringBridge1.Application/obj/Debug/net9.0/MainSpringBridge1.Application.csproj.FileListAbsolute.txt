@@ -1,0 +1,30 @@
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.deps.json
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.csproj.AssemblyReference.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.AssemblyInfoInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.AssemblyInfo.cs
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.csproj.CoreCompileInputs.cache
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpri.F5500240.Up2Date
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\refint\MainSpringBridge1.Application.dll
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\sunny\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\ref\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.deps.json
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Domain.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\bin\Debug\net9.0\MainSpringBridge1.Domain.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.csproj.AssemblyReference.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.AssemblyInfoInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.AssemblyInfo.cs
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpri.F5500240.Up2Date
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\refint\MainSpringBridge1.Application.dll
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\MainSpringBridge1.Application.pdb
+C:\Users\User\MainSpring Project\Backend\MainSpringBridge1\src\MainSpringBridge1.Application\obj\Debug\net9.0\ref\MainSpringBridge1.Application.dll
