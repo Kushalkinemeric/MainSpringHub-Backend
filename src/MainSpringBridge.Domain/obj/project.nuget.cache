@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nN0DgZEyWO4=",
+  "dgSpecHash": "nmfTRmuzta4=",
   "success": true,
-  "projectFilePath": "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj",
+  "projectFilePath": "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

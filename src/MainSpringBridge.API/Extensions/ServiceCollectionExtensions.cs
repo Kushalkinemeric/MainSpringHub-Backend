@@ -1,8 +1,8 @@
-using MainSpringBridge1.Application.Interfaces;
-using MainSpringBridge1.Infrastructure.Database;
-using MainSpringBridge1.Infrastructure.Repositories;
+using MainSpringBridge.Application.Interfaces;
+using MainSpringBridge.Infrastructure.Database;
+using MainSpringBridge.Infrastructure.Repositories;
 
-namespace MainSpringBridge1.API.Extensions;
+namespace MainSpringBridge.API.Extensions;
 
 public static class ServiceCollectionExtensions
 {

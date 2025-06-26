@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using MainSpringBridge1.Application.Interfaces;
-using MainSpringBridge1.Application.DTOs;
+using MainSpringBridge.Application.Interfaces;
+using MainSpringBridge.Application.DTOs;
 
-namespace MainSpringBridge1.API.Controllers;
+namespace MainSpringBridge.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

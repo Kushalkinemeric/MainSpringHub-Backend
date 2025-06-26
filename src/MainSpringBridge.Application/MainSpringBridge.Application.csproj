@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\MainSpringBridge1.Domain\MainSpringBridge1.Domain.csproj" />
+    <ProjectReference Include="..\MainSpringBridge.Domain\MainSpringBridge.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

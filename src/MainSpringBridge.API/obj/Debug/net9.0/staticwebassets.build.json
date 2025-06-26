@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "ggKpuLnCm85h4AR+P4011NE/qJWRBf4MHQz4sHtG/no=",
-  "Source": "MainSpringBridge1.API",
-  "BasePath": "_content/MainSpringBridge1.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"RZ3Zj4dplLZkKOX6L27iK+x6cLarMGXPEzwf7a4zdqY=","Source":"MainSpringBridge.API","BasePath":"_content/MainSpringBridge.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axwY7/XJkFE=",
+  "dgSpecHash": "s9+48dMg0ds=",
   "success": true,
-  "projectFilePath": "C:\\codebase\\src\\MainSpringBridge1.API\\MainSpringBridge1.API.csproj",
+  "projectFilePath": "C:\\codebase\\src\\MainSpringBridge.API\\MainSpringBridge.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

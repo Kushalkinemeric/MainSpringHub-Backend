@@ -1,0 +1,12 @@
+C:\codebase\src\MainSpringBridge.Domain\bin\Debug\net9.0\MainSpringBridge.Domain.deps.json
+C:\codebase\src\MainSpringBridge.Domain\bin\Debug\net9.0\MainSpringBridge.Domain.dll
+C:\codebase\src\MainSpringBridge.Domain\bin\Debug\net9.0\MainSpringBridge.Domain.pdb
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.AssemblyInfoInputs.cache
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.AssemblyInfo.cs
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.csproj.CoreCompileInputs.cache
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.sourcelink.json
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.dll
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\refint\MainSpringBridge.Domain.dll
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\MainSpringBridge.Domain.pdb
+C:\codebase\src\MainSpringBridge.Domain\obj\Debug\net9.0\ref\MainSpringBridge.Domain.dll

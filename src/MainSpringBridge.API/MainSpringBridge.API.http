@@ -1,6 +1,6 @@
-@MainSpringBridge1.API_HostAddress = http://localhost:5181
+@MainSpringBridge.API_HostAddress = http://localhost:5181
 
-GET {{MainSpringBridge1.API_HostAddress}}/weatherforecast/
+GET {{MainSpringBridge.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

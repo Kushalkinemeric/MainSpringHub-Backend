@@ -1,6 +1,6 @@
-using MainSpringBridge1.Domain.Entities;
+using MainSpringBridge.Domain.Entities;
 
-namespace MainSpringBridge1.Application.Interfaces;
+namespace MainSpringBridge.Application.Interfaces;
 
 public interface IProductRepository
 {

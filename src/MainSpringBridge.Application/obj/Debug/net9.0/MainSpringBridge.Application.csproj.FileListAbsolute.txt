@@ -1,0 +1,16 @@
+C:\codebase\src\MainSpringBridge.Application\bin\Debug\net9.0\MainSpringBridge.Application.deps.json
+C:\codebase\src\MainSpringBridge.Application\bin\Debug\net9.0\MainSpringBridge.Application.dll
+C:\codebase\src\MainSpringBridge.Application\bin\Debug\net9.0\MainSpringBridge.Application.pdb
+C:\codebase\src\MainSpringBridge.Application\bin\Debug\net9.0\MainSpringBridge.Domain.dll
+C:\codebase\src\MainSpringBridge.Application\bin\Debug\net9.0\MainSpringBridge.Domain.pdb
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.csproj.AssemblyReference.cache
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.AssemblyInfoInputs.cache
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.AssemblyInfo.cs
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.csproj.CoreCompileInputs.cache
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.sourcelink.json
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpri.D03A9A50.Up2Date
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.dll
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\refint\MainSpringBridge.Application.dll
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\MainSpringBridge.Application.pdb
+C:\codebase\src\MainSpringBridge.Application\obj\Debug\net9.0\ref\MainSpringBridge.Application.dll

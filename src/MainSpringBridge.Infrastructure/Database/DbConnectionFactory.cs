@@ -3,7 +3,7 @@ using System.Data;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 
-namespace MainSpringBridge1.Infrastructure.Database;
+namespace MainSpringBridge.Infrastructure.Database;
 
 public class DbConnectionFactory
 {

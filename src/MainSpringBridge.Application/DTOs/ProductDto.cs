@@ -1,4 +1,4 @@
-namespace MainSpringBridge1.Application.DTOs;
+namespace MainSpringBridge.Application.DTOs;
 
 public class ProductDto
 {

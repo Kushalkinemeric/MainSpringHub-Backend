@@ -1,4 +1,4 @@
-﻿namespace MainSpringBridge1.Application;
+﻿namespace MainSpringBridge.Application;
 
 public class Class1
 {

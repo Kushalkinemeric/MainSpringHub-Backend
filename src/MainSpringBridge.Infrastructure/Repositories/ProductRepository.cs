@@ -1,9 +1,9 @@
 using Dapper;
-using MainSpringBridge1.Application.Interfaces;
-using MainSpringBridge1.Domain.Entities;
-using MainSpringBridge1.Infrastructure.Database;
+using MainSpringBridge.Application.Interfaces;
+using MainSpringBridge.Domain.Entities;
+using MainSpringBridge.Infrastructure.Database;
 
-namespace MainSpringBridge1.Infrastructure.Repositories;
+namespace MainSpringBridge.Infrastructure.Repositories;
 
 public class ProductRepository : IProductRepository
 {

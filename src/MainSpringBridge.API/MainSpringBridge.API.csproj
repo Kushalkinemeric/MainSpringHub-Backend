@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MainSpringBridge1.Application\MainSpringBridge1.Application.csproj" />
-    <ProjectReference Include="..\MainSpringBridge1.Infrastructure\MainSpringBridge1.Infrastructure.csproj" />
+    <ProjectReference Include="..\MainSpringBridge.Application\MainSpringBridge.Application.csproj" />
+    <ProjectReference Include="..\MainSpringBridge.Infrastructure\MainSpringBridge.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "MainSpringBridge1.API.Controllers.ProductsController",
+    "ContainingType": "MainSpringBridge.API.Controllers.ProductsController",
     "Method": "Get",
     "RelativePath": "api/Products",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MainSpringBridge1.API.Controllers.ProductsController",
+    "ContainingType": "MainSpringBridge.API.Controllers.ProductsController",
     "Method": "Get",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",

@@ -1,4 +1,4 @@
-namespace MainSpringBridge1.Domain.Entities;
+namespace MainSpringBridge.Domain.Entities;
 
 public class Product
 {

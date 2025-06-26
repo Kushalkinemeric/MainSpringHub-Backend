@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net9.0": {
-      "MainSpringBridge1.Domain/1.0.0": {
+      "MainSpringBridge.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/MainSpringBridge1.Domain.dll": {}
+          "bin/placeholder/MainSpringBridge.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MainSpringBridge1.Domain.dll": {}
+          "bin/placeholder/MainSpringBridge.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MainSpringBridge1.Domain/1.0.0": {
+    "MainSpringBridge.Domain/1.0.0": {
       "type": "project",
-      "path": "../MainSpringBridge1.Domain/MainSpringBridge1.Domain.csproj",
-      "msbuildProject": "../MainSpringBridge1.Domain/MainSpringBridge1.Domain.csproj"
+      "path": "../MainSpringBridge.Domain/MainSpringBridge.Domain.csproj",
+      "msbuildProject": "../MainSpringBridge.Domain/MainSpringBridge.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "MainSpringBridge1.Domain >= 1.0.0"
+      "MainSpringBridge.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge1.Application\\MainSpringBridge1.Application.csproj",
-      "projectName": "MainSpringBridge1.Application",
-      "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Application\\MainSpringBridge1.Application.csproj",
+      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge.Application\\MainSpringBridge.Application.csproj",
+      "projectName": "MainSpringBridge.Application",
+      "projectPath": "C:\\codebase\\src\\MainSpringBridge.Application\\MainSpringBridge.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\codebase\\src\\MainSpringBridge1.Application\\obj\\",
+      "outputPath": "C:\\codebase\\src\\MainSpringBridge.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj": {
-              "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj"
+            "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj": {
+              "projectPath": "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj"
             }
           }
         }

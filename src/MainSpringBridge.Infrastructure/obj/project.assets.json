@@ -739,27 +739,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "MainSpringBridge1.Application/1.0.0": {
+      "MainSpringBridge.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "MainSpringBridge1.Domain": "1.0.0"
+          "MainSpringBridge.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/MainSpringBridge1.Application.dll": {}
+          "bin/placeholder/MainSpringBridge.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MainSpringBridge1.Application.dll": {}
+          "bin/placeholder/MainSpringBridge.Application.dll": {}
         }
       },
-      "MainSpringBridge1.Domain/1.0.0": {
+      "MainSpringBridge.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/MainSpringBridge1.Domain.dll": {}
+          "bin/placeholder/MainSpringBridge.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MainSpringBridge1.Domain.dll": {}
+          "bin/placeholder/MainSpringBridge.Domain.dll": {}
         }
       }
     }
@@ -1898,22 +1898,22 @@
         "version.txt"
       ]
     },
-    "MainSpringBridge1.Application/1.0.0": {
+    "MainSpringBridge.Application/1.0.0": {
       "type": "project",
-      "path": "../MainSpringBridge1.Application/MainSpringBridge1.Application.csproj",
-      "msbuildProject": "../MainSpringBridge1.Application/MainSpringBridge1.Application.csproj"
+      "path": "../MainSpringBridge.Application/MainSpringBridge.Application.csproj",
+      "msbuildProject": "../MainSpringBridge.Application/MainSpringBridge.Application.csproj"
     },
-    "MainSpringBridge1.Domain/1.0.0": {
+    "MainSpringBridge.Domain/1.0.0": {
       "type": "project",
-      "path": "../MainSpringBridge1.Domain/MainSpringBridge1.Domain.csproj",
-      "msbuildProject": "../MainSpringBridge1.Domain/MainSpringBridge1.Domain.csproj"
+      "path": "../MainSpringBridge.Domain/MainSpringBridge.Domain.csproj",
+      "msbuildProject": "../MainSpringBridge.Domain/MainSpringBridge.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Dapper >= 2.1.66",
-      "MainSpringBridge1.Application >= 1.0.0",
-      "MainSpringBridge1.Domain >= 1.0.0",
+      "MainSpringBridge.Application >= 1.0.0",
+      "MainSpringBridge.Domain >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.0.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 9.0.6",
       "System.Data.SqlClient >= 4.9.0"
@@ -1926,11 +1926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge1.Infrastructure\\MainSpringBridge1.Infrastructure.csproj",
-      "projectName": "MainSpringBridge1.Infrastructure",
-      "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Infrastructure\\MainSpringBridge1.Infrastructure.csproj",
+      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge.Infrastructure\\MainSpringBridge.Infrastructure.csproj",
+      "projectName": "MainSpringBridge.Infrastructure",
+      "projectPath": "C:\\codebase\\src\\MainSpringBridge.Infrastructure\\MainSpringBridge.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\codebase\\src\\MainSpringBridge1.Infrastructure\\obj\\",
+      "outputPath": "C:\\codebase\\src\\MainSpringBridge.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1952,11 +1952,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\codebase\\src\\MainSpringBridge1.Application\\MainSpringBridge1.Application.csproj": {
-              "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Application\\MainSpringBridge1.Application.csproj"
+            "C:\\codebase\\src\\MainSpringBridge.Application\\MainSpringBridge.Application.csproj": {
+              "projectPath": "C:\\codebase\\src\\MainSpringBridge.Application\\MainSpringBridge.Application.csproj"
             },
-            "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj": {
-              "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj"
+            "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj": {
+              "projectPath": "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj"
             }
           }
         }

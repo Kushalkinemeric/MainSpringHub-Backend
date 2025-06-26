@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj",
-      "projectName": "MainSpringBridge1.Domain",
-      "projectPath": "C:\\codebase\\src\\MainSpringBridge1.Domain\\MainSpringBridge1.Domain.csproj",
+      "projectUniqueName": "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj",
+      "projectName": "MainSpringBridge.Domain",
+      "projectPath": "C:\\codebase\\src\\MainSpringBridge.Domain\\MainSpringBridge.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\codebase\\src\\MainSpringBridge1.Domain\\obj\\",
+      "outputPath": "C:\\codebase\\src\\MainSpringBridge.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

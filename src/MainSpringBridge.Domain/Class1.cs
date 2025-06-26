@@ -1,4 +1,4 @@
-﻿namespace MainSpringBridge1.Domain;
+﻿namespace MainSpringBridge.Domain;
 
 public class Class1
 {
